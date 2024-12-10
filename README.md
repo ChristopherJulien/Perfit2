@@ -1,1 +1,1 @@
-![Alt Text](./path/to/PerfitPresentation.pptx.png)
+![Alt Text](./PerfitPresentation.pptx.png)
